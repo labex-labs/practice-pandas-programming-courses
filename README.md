@@ -6,8 +6,8 @@
 
 Pandas is a Python library for data analysis. It provides high-performance, easy-to-use data structures and data analysis tools. In this skill tree, you'll learn how to use Pandas to analyze data in Python.
 
-|   Index | Name                                                      | Level   | Repo                                                                | Course Link                                                              |
-|---------|-----------------------------------------------------------|---------|---------------------------------------------------------------------|--------------------------------------------------------------------------|
+|   Index | Name                                                      | Level   | Repo                                                               | Course Link                                                             |
+|---------|-----------------------------------------------------------|---------|--------------------------------------------------------------------|-------------------------------------------------------------------------|
 |       1 | [Quick Start with Pandas](#quick-start-with-pandas)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-pandas)    |
 |       2 | [Pandas Practice Labs](#pandas-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/pandas-practice-labs)       | [🚀 Start Learning](https://labex.io/courses/pandas-practice-labs)       |
 |       3 | [Pandas Practice Challenges](#pandas-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/pandas-practice-challenges) | [🚀 Start Learning](https://labex.io/courses/pandas-practice-challenges) |
