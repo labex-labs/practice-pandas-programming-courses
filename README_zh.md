@@ -12,10 +12,10 @@ Pandas 是 Python 中进行数据处理和分析的关键工具。本技能树�
 
 |   序号 | 名称                                                                      | 难度   | Repo                                                                | 练习                                                                  |
 |--------|---------------------------------------------------------------------------|--------|---------------------------------------------------------------------|-----------------------------------------------------------------------|
-|      1 | [Pandas 快速入门](https://labex.io/zh/courses/quick-start-with-pandas)    | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-pandas)    |
-|      2 | [Pandas 实践实验室](https://labex.io/zh/courses/pandas-practice-labs)     | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/pandas-practice-labs)       | [🚀 开始实验](https://labex.io/zh/courses/pandas-practice-labs)       |
-|      3 | [Pandas 实战挑战](https://labex.io/zh/courses/pandas-practice-challenges) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/pandas-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/pandas-practice-challenges) |
-|      4 | [100 个 Pandas 练习题](https://labex.io/zh/courses/100-pandas-exercises)  | ★★☆    | [🔗 Repo](https://github.com/labex-labs/100-pandas-exercises)       | [🚀 开始实验](https://labex.io/zh/courses/100-pandas-exercises)       |
+|      1 | [Pandas 快速入门](https://labex.io/zh/courses/quick-start-with-pandas)    | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-pandas)    |
+|      2 | [Pandas 实践实验室](https://labex.io/zh/courses/pandas-practice-labs)     | 初级   | [🔗 Repo](https://github.com/labex-labs/pandas-practice-labs)       | [🚀 开始实验](https://labex.io/zh/courses/pandas-practice-labs)       |
+|      3 | [Pandas 实战挑战](https://labex.io/zh/courses/pandas-practice-challenges) | 初级   | [🔗 Repo](https://github.com/labex-labs/pandas-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/pandas-practice-challenges) |
+|      4 | [100 个 Pandas 练习题](https://labex.io/zh/courses/100-pandas-exercises)  | 中级   | [🔗 Repo](https://github.com/labex-labs/100-pandas-exercises)       | [🚀 开始实验](https://labex.io/zh/courses/100-pandas-exercises)       |
 
 ## 更多
 
