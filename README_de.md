@@ -12,10 +12,10 @@ Pandas ist entscheidend für die Datenmanipulation und -analyse in Python. Diese
 
 |   Index | Name                                                                            | Schwierigkeit   | Repo                                                                | Übung                                                                      |
 |---------|---------------------------------------------------------------------------------|-----------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|
-|       1 | [Schnellstart mit Pandas](https://labex.io/de/courses/quick-start-with-pandas)  | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)    | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-pandas)    |
-|       2 | [Pandas Übungs-Labs](https://labex.io/de/courses/pandas-practice-labs)          | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/pandas-practice-labs)       | [🚀 Labor Starten](https://labex.io/de/courses/pandas-practice-labs)       |
-|       3 | [Pandas Übungsaufgaben](https://labex.io/de/courses/pandas-practice-challenges) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/pandas-practice-challenges) | [🚀 Labor Starten](https://labex.io/de/courses/pandas-practice-challenges) |
-|       4 | [100 Pandas Übungen](https://labex.io/de/courses/100-pandas-exercises)          | ★★☆             | [🔗 Repo](https://github.com/labex-labs/100-pandas-exercises)       | [🚀 Labor Starten](https://labex.io/de/courses/100-pandas-exercises)       |
+|       1 | [Schnellstart mit Pandas](https://labex.io/de/courses/quick-start-with-pandas)  | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)    | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-pandas)    |
+|       2 | [Pandas Übungs-Labs](https://labex.io/de/courses/pandas-practice-labs)          | Anfänger        | [🔗 Repo](https://github.com/labex-labs/pandas-practice-labs)       | [🚀 Labor Starten](https://labex.io/de/courses/pandas-practice-labs)       |
+|       3 | [Pandas Übungsaufgaben](https://labex.io/de/courses/pandas-practice-challenges) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/pandas-practice-challenges) | [🚀 Labor Starten](https://labex.io/de/courses/pandas-practice-challenges) |
+|       4 | [100 Pandas Übungen](https://labex.io/de/courses/100-pandas-exercises)          | Fortgeschritten | [🔗 Repo](https://github.com/labex-labs/100-pandas-exercises)       | [🚀 Labor Starten](https://labex.io/de/courses/100-pandas-exercises)       |
 
 ## Mehr
 
