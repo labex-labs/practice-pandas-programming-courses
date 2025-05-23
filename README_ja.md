@@ -12,10 +12,10 @@ Pandas は Python におけるデータ操作と分析に不可欠です。こ�
 
 |   インデックス | 名前                                                                                   | 難易度   | Repo                                                                | 練習                                                                    |
 |----------------|----------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
-|              1 | [Pandas を使ったクイックスタート](https://labex.io/ja/courses/quick-start-with-pandas) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-pandas)    |
-|              2 | [Pandas 実践ラボ](https://labex.io/ja/courses/pandas-practice-labs)                    | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/pandas-practice-labs)       | [🚀 ラボを開始](https://labex.io/ja/courses/pandas-practice-labs)       |
-|              3 | [Pandas 実践チャレンジ](https://labex.io/ja/courses/pandas-practice-challenges)        | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/pandas-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/pandas-practice-challenges) |
-|              4 | [100 の Pandas 演習](https://labex.io/ja/courses/100-pandas-exercises)                 | ★★☆      | [🔗 Repo](https://github.com/labex-labs/100-pandas-exercises)       | [🚀 ラボを開始](https://labex.io/ja/courses/100-pandas-exercises)       |
+|              1 | [Pandas を使ったクイックスタート](https://labex.io/ja/courses/quick-start-with-pandas) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-pandas)    |
+|              2 | [Pandas 実践ラボ](https://labex.io/ja/courses/pandas-practice-labs)                    | 初級     | [🔗 Repo](https://github.com/labex-labs/pandas-practice-labs)       | [🚀 ラボを開始](https://labex.io/ja/courses/pandas-practice-labs)       |
+|              3 | [Pandas 実践チャレンジ](https://labex.io/ja/courses/pandas-practice-challenges)        | 初級     | [🔗 Repo](https://github.com/labex-labs/pandas-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/pandas-practice-challenges) |
+|              4 | [100 の Pandas 演習](https://labex.io/ja/courses/100-pandas-exercises)                 | 中級     | [🔗 Repo](https://github.com/labex-labs/100-pandas-exercises)       | [🚀 ラボを開始](https://labex.io/ja/courses/100-pandas-exercises)       |
 
 ## その他
 
