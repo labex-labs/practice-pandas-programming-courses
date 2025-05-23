@@ -12,10 +12,10 @@ Pandas 는 Python 에서 데이터 조작 및 분석에 필수적입니다. 이 
 
 |   인덱스 | 이름                                                                         | 난이도   | Repo                                                                | 연습                                                                   |
 |----------|------------------------------------------------------------------------------|----------|---------------------------------------------------------------------|------------------------------------------------------------------------|
-|        1 | [Pandas 시작하기](https://labex.io/ko/courses/quick-start-with-pandas)       | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-pandas)    |
-|        2 | [Pandas 실습 랩](https://labex.io/ko/courses/pandas-practice-labs)           | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/pandas-practice-labs)       | [🚀 실습 시작](https://labex.io/ko/courses/pandas-practice-labs)       |
-|        3 | [Pandas 실습 챌린지](https://labex.io/ko/courses/pandas-practice-challenges) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/pandas-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/pandas-practice-challenges) |
-|        4 | [100 Pandas 연습 문제](https://labex.io/ko/courses/100-pandas-exercises)     | ★★☆      | [🔗 Repo](https://github.com/labex-labs/100-pandas-exercises)       | [🚀 실습 시작](https://labex.io/ko/courses/100-pandas-exercises)       |
+|        1 | [Pandas 시작하기](https://labex.io/ko/courses/quick-start-with-pandas)       | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-pandas)    |
+|        2 | [Pandas 실습 랩](https://labex.io/ko/courses/pandas-practice-labs)           | 초급     | [🔗 Repo](https://github.com/labex-labs/pandas-practice-labs)       | [🚀 실습 시작](https://labex.io/ko/courses/pandas-practice-labs)       |
+|        3 | [Pandas 실습 챌린지](https://labex.io/ko/courses/pandas-practice-challenges) | 초급     | [🔗 Repo](https://github.com/labex-labs/pandas-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/pandas-practice-challenges) |
+|        4 | [100 Pandas 연습 문제](https://labex.io/ko/courses/100-pandas-exercises)     | 중급     | [🔗 Repo](https://github.com/labex-labs/100-pandas-exercises)       | [🚀 실습 시작](https://labex.io/ko/courses/100-pandas-exercises)       |
 
 ## 더 보기
 
