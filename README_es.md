@@ -8,14 +8,13 @@
 <img width="128px" src="https://file.labex.io/path/qhqKKAjZr3K5.png">
 </div>
 
-Pandas es fundamental para la manipulación y análisis de datos en Python. Este Skill Tree ofrece un camino de aprendizaje integral para dominar Pandas. Es ideal para principiantes en ciencia de datos, proporcionando una hoja de ruta clara para entender DataFrames, limpieza de datos y técnicas de análisis. A través de cursos prácticos sin video y ejercicios en un entorno interactivo de ciencia de datos, adquirirás experiencia real en el procesamiento y análisis de conjuntos de datos complejos.
+Aprende Pandas para la manipulación y el análisis de datos en Python con esta completa ruta de aprendizaje. Diseñados para principiantes, estos cursos prácticos de Pandas proporcionan una hoja de ruta clara para dominar los DataFrames, la limpieza de datos y las técnicas avanzadas de análisis. Adquiere experiencia práctica y real trabajando con conjuntos de datos complejos a través de ejercicios interactivos en un entorno de ciencia de datos.
 
 |   Índice | Nombre                                                                                   | Dificultad   | Repo                                                                | Práctica                                                                         |
 |----------|------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|        1 | [Inicio rápido con Pandas](https://labex.io/es/courses/quick-start-with-pandas)          | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)    | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-pandas)    |
-|        2 | [Laboratorios de Práctica de Pandas](https://labex.io/es/courses/pandas-practice-labs)   | Principiante | [🔗 Repo](https://github.com/labex-labs/pandas-practice-labs)       | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/pandas-practice-labs)       |
-|        3 | [Desafíos de Práctica de Pandas](https://labex.io/es/courses/pandas-practice-challenges) | Principiante | [🔗 Repo](https://github.com/labex-labs/pandas-practice-challenges) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/pandas-practice-challenges) |
-|        4 | [100 Ejercicios de Pandas](https://labex.io/es/courses/100-pandas-exercises)             | Intermedio   | [🔗 Repo](https://github.com/labex-labs/100-pandas-exercises)       | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/100-pandas-exercises)       |
+|        1 | [Pandas para Principiantes](https://labex.io/es/courses/pandas-for-beginners)            | Principiante | [🔗 Repo](https://github.com/labex-labs/pandas-for-beginners)       | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/pandas-for-beginners)       |
+|        2 | [Desafíos de Práctica de Pandas](https://labex.io/es/courses/pandas-practice-challenges) | Principiante | [🔗 Repo](https://github.com/labex-labs/pandas-practice-challenges) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/pandas-practice-challenges) |
+|        3 | [100 Ejercicios de Pandas](https://labex.io/es/courses/100-pandas-exercises)             | Principiante | [🔗 Repo](https://github.com/labex-labs/100-pandas-exercises)       | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/100-pandas-exercises)       |
 
 ## Más
 
